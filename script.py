@@ -12,11 +12,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
-➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-➥ Language: Python 𝟹
-➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
-➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
+➥ Creator: <a href='https://t.me/devil_active'>𓆩‎ 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 𓆪</a>
 ➥ Build Status: v2.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
@@ -24,10 +20,10 @@ IMDb is a Open source project.
 Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/fSociety7777'>𝙁 𝙎𝙤𝙘𝙞𝙚𝙩𝙮</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/GoldenTreeGroup'>Golden Tree Network</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
