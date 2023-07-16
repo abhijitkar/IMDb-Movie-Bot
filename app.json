@@ -18,47 +18,56 @@
     "website": "https://github.com/JOSProjects/IMDb-Movie-Bot",
     "repository": "https://github.com/abhijitkar/IMDb-Movie-Bot",
     "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN": 6374326157:AAFDwVt1BAaFWiiKputVCcgIgBMz_AFdOtg
+        { 
             "description": "Your bot token.",
             "required": true
         },
-        "API_ID": {
+        "API_ID": 10231474
+    {
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": b5a625fe64da20d912c46a990e7d8ec5
+{
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
-        "CHANNELS": {
+        "CHANNELS": -1001682321049
+{
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "required": false
         },
-        "ADMINS": {
+        "ADMINS": 5718972884 6173218072
+{
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
-        "PICS": {
+        "PICS": https://graph.org/file/39ba5739858e0f5097499.jpg
+{
             "description": "Add some telegraph link of pictures .",
             "required": false
         },
-        "LOG_CHANNEL": {
+        "LOG_CHANNEL": -1001676820327
+{
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "required": true
         },
-        "AUTH_USERS": {
+        "AUTH_USERS": 5718972884 6173218072
+{
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
             "required": false
         },
-        "AUTH_CHANNEL": {
+        "AUTH_CHANNEL": -1001682321049 {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "required": false
         },
-        "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/nj-lJfkgb6w",
+        "DATABASE_URI": mongodb+srv://akbk20004:akbk20004@fob.ff80jqx.mongodb.net/
+{
+            "description":"mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/nj-lJfkgb6w",
             "required": true
         },
-        "DATABASE_NAME": {
+        "DATABASE_NAME":moviebot783{
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/nj-lJfkgb6w",
             "required": false
         },
